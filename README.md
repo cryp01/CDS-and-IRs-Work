@@ -1,5 +1,5 @@
 # CDS-and-IRs-Work
-Financial Stability and Integration within the Eurozone
+Financial Stability and Integration within the Eurozone 
 
 * To study the comparison of Credit Default Swaps (CDSs) versus Interest Rates Spreads (IRSs) as indicators
 of the sovereign risk associated to public bonds. Data was downloaded and analyzed from selected countries
